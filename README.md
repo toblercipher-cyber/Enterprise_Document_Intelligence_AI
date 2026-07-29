@@ -1,3 +1,9 @@
+<img width="1360" height="648" alt="Enterprise_document_intelligence-1" src="https://github.com/user-attachments/assets/57835211-dda4-4696-a1e4-6558f2b69de5" />
+<img width="1360" height="646" alt="Enterprise_document_intelligence-2" src="https://github.com/user-attachments/assets/1aebaf10-ca0d-4bdd-b595-9f72b3c7eba6" />
+<img width="1360" height="643" alt="Enterprise_document_intelligence-3" src="https://github.com/user-attachments/assets/a2d5fbe2-0a31-4e14-a342-2559bc7905ae" />
+<img width="1360" height="641" alt="Enterprise_document_intelligence-4" src="https://github.com/user-attachments/assets/40b2d708-e0f4-46b2-908a-1ada8d9b30fb" />
+
+
 # 📄 Enterprise Document Intelligence using LangGraph
 
 An AI-powered Enterprise Document Intelligence System built with **LangGraph** that demonstrates **Sequential**, **Conditional**, and **Parallel Workflows** in a real-world document analysis application.
